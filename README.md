@@ -1,5 +1,7 @@
 # tic-tac-toe
 
-A Tic Tac Toe game that uses encapsulation to avoid global variables.
+Status: Work in progress
 
-Live preview: https://dk32093.github.io/tic-tac-toe/
+A basic Tic Tac Toe game built with pure JavaScript. Encapsulation is used to manage game state without relying on global variables.
+
+Live preview: https://dk32093.github.io/webdev-tic-tac-toe/
